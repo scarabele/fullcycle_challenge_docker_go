@@ -1,0 +1,1 @@
+Imagem está no docker hub como scarabele/codeeducation
